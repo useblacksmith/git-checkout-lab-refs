@@ -1,1 +1,1 @@
-Hosted ref fixture
+Rewritten topic
